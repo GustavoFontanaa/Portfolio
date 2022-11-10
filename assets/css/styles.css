@@ -149,7 +149,7 @@ body.dark-theme {
   justify-content: center;
 }
 .profile__perfil img {
-  width: 75px;
+  width: 120px;
 }
 .profile__border {
   border: 3.5px solid var(--first-color);
@@ -271,6 +271,9 @@ body.dark-theme {
   position: relative;
   border-radius: 1rem;
   overflow: hidden;
+}
+.projects__img {
+  max-height: 250px;
 }
 .projects__card img {
   width: 100%;
@@ -436,7 +439,7 @@ body.dark-theme {
     height: 120px;
   }
   .profile__perfil img {
-    width: 90px;
+    width: 120px;
   }
   .profile__profession {
     margin-bottom: 1.5rem;
