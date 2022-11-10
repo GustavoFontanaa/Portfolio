@@ -7,3 +7,5 @@
 📌 Linkedin: [Gustavo](https://www.linkedin.com/in/gustaaes)
 
 ![preview img](/preview.png)
+![preview img](/preview2.png)
+
